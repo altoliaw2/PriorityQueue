@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1616159500 source:e:\codeworkshop\codeblock\projectdsalg\priorityqueue\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<functional>
+	<cstdlib>
+	<time.h>
+
